@@ -1,4 +1,3 @@
-Reverse String
 
 let newStr = '';
 
